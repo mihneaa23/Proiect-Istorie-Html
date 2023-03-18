@@ -13,11 +13,11 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: bisque;
   display: block;
 }
 .sidenav a:hover {
-  color: #2651c7;
+  color: #fafafa;
 }
 .main {
   margin-left: 160px; 
